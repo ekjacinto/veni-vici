@@ -1,4 +1,4 @@
-# Web Development Project 4 - _Veni Vici - Valorant Edition_
+# Web Development Project 4 - _Veni Vici: Valorant Edition_
 
 Submitted by: **Ethan Jacinto**
 
@@ -32,6 +32,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <!-- Replace this with whatever GIF tool you used! -->
+![veni-vici](https://github.com/ekjacinto/veni-vici/assets/109046831/231931d8-0003-4a95-a932-af7600c0afc8)
 
 GIF created with ...
 
